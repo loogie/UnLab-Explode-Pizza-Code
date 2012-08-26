@@ -1,0 +1,56 @@
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\font.xnb
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.exe
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.pdb
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.dll
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.pdb
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.xml
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.exe
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.pdb
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\atlas.xnb
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\font.xnb
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\atlas.xnb
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.exe
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.pdb
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.dll
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.pdb
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.xml
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.exe
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.pdb
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\font.xnb
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\atlas.xnb
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.exe
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.pdb
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.dll
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.pdb
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.xml
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.exe
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.pdb
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\font.xnb
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\Content\atlas.xnb
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.exe
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerGame.pdb
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.dll
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.pdb
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\DebugViewXNA.xml
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.exe
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGame\obj\x86\Debug\FarseerGame.pdb

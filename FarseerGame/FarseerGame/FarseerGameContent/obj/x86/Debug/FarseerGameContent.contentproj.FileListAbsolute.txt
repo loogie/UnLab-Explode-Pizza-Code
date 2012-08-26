@@ -1,0 +1,4 @@
+C:\Documents and Settings\spiridog\My Documents\Visual Studio 2010\Projects\FarseerGame\FarseerGame\FarseerGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\spiridog\My Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\loogie\Documents\SGGSBox\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\loogie\Dropbox\SGGS\FarseerGame\FarseerGame\FarseerGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
